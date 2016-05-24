@@ -1,5 +1,5 @@
-# auto-AXI
-This tool help engineers to generate AXI bus (in Verilog) automatically.
+# auto_bus
+This tool help engineers to generate bus (AXI/Avlon/Wishbone in Verilog) automatically.
 Now, it can do these things:
 1. Generate AXI bus for a module(Verilog).
 2. Generate top level logic, connect several modules(AXI) together.
